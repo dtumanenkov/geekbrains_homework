@@ -1,4 +1,4 @@
-<?php
+?php
 $table="<table border='1' width=700";
 $tr=1;
 while($tr<=100){

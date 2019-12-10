@@ -1,4 +1,4 @@
-<?php
+?php
 /*$file=fopen("test.php","w");
 $content=file_get_contents("https://www.bbc.com/news");
 if (fwrite($file,$content)){

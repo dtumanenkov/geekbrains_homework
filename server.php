@@ -1,4 +1,4 @@
-<?php
+?php
 $name=$_FILES['photo']['name'];
 $path="images/$name";
 /*
